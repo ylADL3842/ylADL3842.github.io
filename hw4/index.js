@@ -9,19 +9,19 @@ const HOSTED_URLS = {
 const examples = {
   'example1':
     "
-' Why should it ?'
+I ' d nearly forgotten that I ' ve got to grow up again !
   ",
   'example2':
   "
-He reads , and looks from Jonah to the bill ; while all his sympathetic shipmates now crowd round Jonah , prepared to lay their hands upon him .
+Ah !
   ",
   'example3':
   "
-Glad was the Spirit impure , as now in hope To find who might direct his wandering flight To Paradise , the happy seat of Man , His journey ' s end and our beginning woe .
+Know ye not then said Satan , filled with scorn , Know ye not me ?
   ",
   'example4':
   "
-Something haue you heard Of Hamlets transformation : so I call it , Since not th ' exterior , nor the inward man Resembles that it was .
+That thou dead Coarse againe in compleat steele , Reuisits thus the glimpses of the Moone , Making Night hidious ?
   "};
 
 function status(statusText) {
