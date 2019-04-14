@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      "And the Eaglet bent down its head to hide a smile : some of the other birds tittered audibly .",
+      "' Are you -- are you fond -- of -- of dogs ?'",
   'example2':
-      '" Nantucket itself ," said Mr . Webster , " is a very striking and peculiar portion of the National interest .',
+      "-- OPENING SENTENCE OF HOBBES ' S LEVIATHAN .",
   'example3':
-      "If thence he scape , into whatever world , Or unknown region , what remains him less Than unknown dangers , and as hard escape ?",
+      "Him to unthrone we then May hope , when everlasting Fate shall yield To fickle Chance , and Chaos judge the strife .",
   'example4':
       "Wee ' l teach you to drinke deepe , ere you depart"   
 };
