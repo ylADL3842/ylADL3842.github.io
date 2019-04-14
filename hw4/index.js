@@ -10,11 +10,11 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      "-- ECKERMANN ' S CONVERSATIONS WITH GOETHE .",
+      "-- ECKERMANN'S CONVERSATIONS WITH GOETHE.",
   'example3':
-      'Him to unthrone we then May hope , when everlasting Fate shall yield To fickle Chance , and Chaos judge the strife .',
+      'Him to unthrone we then May hope, when everlasting Fate shall yield To fickle Chance, and Chaos judge the strife.',
   'example4':
-      "Fye , ' tis a fault to Heauen , A fault against the Dead , a fault to Nature , To Reason most absurd , whose common Theame Is death of Fathers , and who still hath cried , From the first Coarse , till he that dyed to day , This must be so ."   
+      "Fye, 'tis a fault to Heauen, A fault against the Dead, a fault to Nature, To Reason most absurd, whose common Theame Is death of Fathers, and who still hath cried, From the first Coarse, till he that dyed to day, This must be so."   
 };
 
 function status(statusText) {
