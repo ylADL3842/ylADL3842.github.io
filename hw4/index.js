@@ -8,21 +8,14 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-    "
-I ' d nearly forgotten that I ' ve got to grow up again !
-  ",
+      "' Are you -- are you fond -- of -- of dogs ?'",
   'example2':
-  "
-Ah !
-  ",
+      "-- OPENING SENTENCE OF HOBBES ' S LEVIATHAN .",
   'example3':
-  "
-Know ye not then said Satan , filled with scorn , Know ye not me ?
-  ",
+      "Him to unthrone we then May hope , when everlasting Fate shall yield To fickle Chance , and Chaos judge the strife .",
   'example4':
-  "
-That thou dead Coarse againe in compleat steele , Reuisits thus the glimpses of the Moone , Making Night hidious ?
-  "};
+      "Wee ' l teach you to drinke deepe , ere you depart"   
+};
 
 function status(statusText) {
   console.log(statusText);
