@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      "The Mouse only growled in reply .",
+      "And the Eaglet bent down its head to hide a smile : some of the other birds tittered audibly .",
   'example2':
-      "There now is your insular city of the Manhattoes , belted round by wharves as Indian isles by coral reefs -- commerce surrounds it with her surf .",
+      '" Nantucket itself ," said Mr . Webster , " is a very striking and peculiar portion of the National interest .',
   'example3':
-      "And now great deeds Had been achieved , whereof all Hell had rung , Had not the snaky Sorceress , that sat Fast by Hell - gate and kept the fatal key , Risen , and with hideous outcry rushed between .",
+      "If thence he scape , into whatever world , Or unknown region , what remains him less Than unknown dangers , and as hard escape ?",
   'example4':
-      "Both ."   
+      "Wee ' l teach you to drinke deepe , ere you depart"   
 };
 
 function status(statusText) {
