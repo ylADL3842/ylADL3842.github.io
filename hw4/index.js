@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      "cried Alice in a sorrowful tone , ' I ' m afraid I ' ve offended it again !'",
+      "The Mouse only growled in reply .",
   'example2':
-      "-- ECKERMANN ' S CONVERSATIONS WITH GOETHE .",
+      "There now is your insular city of the Manhattoes , belted round by wharves as Indian isles by coral reefs -- commerce surrounds it with her surf .",
   'example3':
-      'Him to unthrone we then May hope , when everlasting Fate shall yield To fickle Chance , and Chaos judge the strife .',
+      "And now great deeds Had been achieved , whereof all Hell had rung , Had not the snaky Sorceress , that sat Fast by Hell - gate and kept the fatal key , Risen , and with hideous outcry rushed between .",
   'example4':
-      "Fye , ' tis a fault to Heauen , A fault against the Dead , a fault to Nature , To Reason most absurd , whose common Theame Is death of Fathers , and who still hath cried , From the first Coarse , till he that dyed to day , This must be so ."   
+      "Both ."   
 };
 
 function status(statusText) {
