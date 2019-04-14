@@ -8,14 +8,21 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      "' Are you -- are you fond -- of -- of dogs ?'",
+    "
+' Why should it ?'
+  ",
   'example2':
-      "-- OPENING SENTENCE OF HOBBES ' S LEVIATHAN .",
+  "
+He reads , and looks from Jonah to the bill ; while all his sympathetic shipmates now crowd round Jonah , prepared to lay their hands upon him .
+  ",
   'example3':
-      "Him to unthrone we then May hope , when everlasting Fate shall yield To fickle Chance , and Chaos judge the strife .",
+  "
+Glad was the Spirit impure , as now in hope To find who might direct his wandering flight To Paradise , the happy seat of Man , His journey ' s end and our beginning woe .
+  ",
   'example4':
-      "Wee ' l teach you to drinke deepe , ere you depart"   
-};
+  "
+Something haue you heard Of Hamlets transformation : so I call it , Since not th ' exterior , nor the inward man Resembles that it was .
+  "};
 
 function status(statusText) {
   console.log(statusText);
