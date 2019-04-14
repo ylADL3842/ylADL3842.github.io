@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      "' Are you -- are you fond -- of -- of dogs ?'",
+      "I ' m sure _I_ shan ' t be able !",
   'example2':
       "-- OPENING SENTENCE OF HOBBES ' S LEVIATHAN .",
   'example3':
       "Him to unthrone we then May hope , when everlasting Fate shall yield To fickle Chance , and Chaos judge the strife .",
   'example4':
-      "Wee ' l teach you to drinke deepe , ere you depart"   
+      "Fye , ' tis a fault to Heauen , A fault against the Dead , a fault to Nature , To Reason most absurd , whose common Theame Is death of Fathers , and who still hath cried , From the first Coarse , till he that dyed to day , This must be so ."   
 };
 
 function status(statusText) {
