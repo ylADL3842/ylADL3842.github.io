@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      "I ' m sure _I_ shan ' t be able !",
+      "First it marked out a race - course , in a sort of circle , (' the exact shape doesn ' t matter ,' it said ,) and then all the party were placed along the course , here and there .",
   'example2':
       "-- OPENING SENTENCE OF HOBBES ' S LEVIATHAN .",
   'example3':
