@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      "' Oh , you foolish Alice !'",
+      "cried Alice in a sorrowful tone , ' I ' m afraid I ' ve offended it again !'",
   'example2':
       "-- OPENING SENTENCE OF HOBBES ' S LEVIATHAN .",
   'example3':
